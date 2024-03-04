@@ -1,0 +1,2 @@
+Included is a digit classifier created using MNIST. A basic neural network is created and trained using images of digits. The code then tests digits created in paint and formatted for compatibility with the model.
+The effectiveness of the model is then shown when testing the paint generated images of digits. The model classifies some correctly while misclassifying others, informing us that it should be optimized further.
